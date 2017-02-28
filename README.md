@@ -87,6 +87,7 @@
 #5. Performance Optimization
 ## 5.1 Basket.js
 1. [Basket Org In English](https://addyosmani.com/basket.js/) (***Recommend***)
+2. [Basket Brif Introduction](http://www.tuicool.com/articles/J7jeuiv) shows the brif uses of ***Basket.js*** .
 
 #6. JavaScript Build Tools
 
