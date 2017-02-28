@@ -112,6 +112,7 @@
 ## 7.3 About Github
 
 1. [Add a SSH key](http://blog.csdn.net/binyao02123202/article/details/20130891) tell you how to add a ssk of your ***github*** to pull or push code
+2. [Git RM Index.lock](http://blog.csdn.net/wh_19910525/article/details/8161365) teaches you how to handle git add file error .
 
 ## 7.4 MarkDown
 1. [Markdown Grammer](http://www.jianshu.com/p/q81RER) shows the grammers of ***Markdown*** .
