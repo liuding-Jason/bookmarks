@@ -126,6 +126,7 @@
 ## 8.5 Books 
 1. [Eloquent JavaScript](http://eloquentjavascript.net/)
 2. [Tecent Incremental Update](http://doc.mbalib.com/view/6280a1025d4fcb8e451190b505df8353.html)
+3. [Alibaba SVG Store](http://www.iconfont.cn/)
 
 # 9. CopyRight
 ### 9.1 CopyRight Declare
