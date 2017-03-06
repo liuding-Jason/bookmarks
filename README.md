@@ -34,6 +34,7 @@
 5. [React Design](http://www.infoq.com/cn/articles/react-art-of-simplity/) shows the ***beaut*** of React .
 6. [Redux Org](http://cn.redux.js.org/) (***Recommend***)
 7. [React Router History](http://www.tuicool.com/articles/emayQ3) tells history of ***React Router*** .
+8. [React Touch Event](https://github.com/JedWatson/react-tappable)(***Recommend***)
 
 ## 2.3 Vue
 1. [Vue org](http://cn.vuejs.org/) is the ***offical*** web of Vue (***Recommend***) .
