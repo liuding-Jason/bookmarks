@@ -41,7 +41,8 @@
 2. [Vue Simple Guide from runoob](http://www.runoob.com/w3cnote/vue2-start-coding.html) would give you a introduction of ***Vue2.0***
 3. [Vue Source Code Analyse](http://jiongks.name/blog/vue-code-review/) trys to analyse the source code of ***Vue*** .
 4. [Vuex](https://github.com/vuejs/vuex/blob/dev/README.md) (***Recommend***)
-5. [Vue Prerender](https://github.com/chrisvfritz/prerender-spa-plugin) offers prerendering .
+5.[Vuex Guide](http://vuex.vuejs.org/zh-cn/intro.html) (***Recommend***) 
+6. [Vue Prerender](https://github.com/chrisvfritz/prerender-spa-plugin) offers prerendering .
 
 
 ## 2.4 React Native
