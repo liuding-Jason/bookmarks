@@ -35,6 +35,7 @@
 6. [Redux Org](http://cn.redux.js.org/) (***Recommend***)
 7. [React Router History](http://www.tuicool.com/articles/emayQ3) tells history of ***React Router*** .
 8. [React Touch Event](https://github.com/JedWatson/react-tappable) (***Recommend***)
+9. [Redux Simple Use](https://github.com/reactjs/redux/tree/master/examples/counter) shows the simple use of ***Redux*** .
 
 ## 2.3 Vue
 1. [Vue org](http://cn.vuejs.org/) is the ***offical*** web of Vue (***Recommend***) .
