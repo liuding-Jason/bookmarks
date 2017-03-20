@@ -63,6 +63,7 @@
 1. [Chinese Node Community](http://cnodejs.org/) offers the experience and answers .
 2. [Node API](http://nodejs.cn/api/assert.html) shows APIS of ***Node.JS V6.10.0***
 3. [Ruanyifeng's Node Guide](http://javascript.ruanyifeng.com/nodejs)
+4. [Node Babel](http://www.cnblogs.com/diligenceday/p/5453523.html)
 
 
 ## 3.2 Node Express
