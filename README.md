@@ -40,6 +40,7 @@
 9. [Redux Simple Use](https://github.com/reactjs/redux/tree/master/examples/counter) shows the simple use of ***Redux*** .
 10. [React Router Source Code Analyse](https://github.com/joeyguo/blog/issues/2) analyses the source code of ***React-Router*** .
 11. [Ruanyifeng's Redux Guide](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+12. [Draft](http://blog.csdn.net/ohmyauthentic/article/details/53519299) is a editor based on ***react*** and ***redux*** .
 
 ## 2.3 Vue
 1. [Vue org](http://cn.vuejs.org/) is the ***offical*** web of Vue (***Recommend***) .
