@@ -49,6 +49,7 @@
 4. [Vuex](https://github.com/vuejs/vuex/blob/dev/README.md) (***Recommend***)
 5.[Vuex Guide](http://vuex.vuejs.org/zh-cn/intro.html) (***Recommend***) 
 6. [Vue Prerender](https://github.com/chrisvfritz/prerender-spa-plugin) offers prerendering .
+7. [Vue Component Send Value](http://www.tuicool.com/articles/jyM32mA) shows different ways of sending value in ***Vue2.0*** .
 
 
 ## 2.4 React Native
