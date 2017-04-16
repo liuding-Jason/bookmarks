@@ -38,6 +38,9 @@
 7. [React Router History](http://www.tuicool.com/articles/emayQ3) tells history of ***React Router*** .
 8. [React Touch Event](https://github.com/JedWatson/react-tappable) (***Recommend***)
 9. [Redux Simple Use](https://github.com/reactjs/redux/tree/master/examples/counter) shows the simple use of ***Redux*** .
+10. [React Router Source Code Analyse](https://github.com/joeyguo/blog/issues/2) analyses the source code of ***React-Router*** .
+11. [Ruanyifeng's Redux Guide](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+12. [Draft](http://blog.csdn.net/ohmyauthentic/article/details/53519299) is a editor based on ***react*** and ***redux*** .
 
 ## 2.3 Vue
 1. [Vue org](http://cn.vuejs.org/) is the ***offical*** web of Vue (***Recommend***) .
@@ -46,6 +49,7 @@
 4. [Vuex](https://github.com/vuejs/vuex/blob/dev/README.md) (***Recommend***)
 5.[Vuex Guide](http://vuex.vuejs.org/zh-cn/intro.html) (***Recommend***) 
 6. [Vue Prerender](https://github.com/chrisvfritz/prerender-spa-plugin) offers prerendering .
+7. [Vue Component Send Value](http://www.tuicool.com/articles/jyM32mA) shows different ways of sending value in ***Vue2.0*** .
 
 
 ## 2.4 React Native
