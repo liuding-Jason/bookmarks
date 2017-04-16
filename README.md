@@ -119,6 +119,8 @@
 1. [Ruanyifeng Ajax Cors](http://www.ruanyifeng.com/blog/2016/04/cors.html) (***Recommend***)
 2. [Http Session](http://justsee.iteye.com/blog/1570652) (***Recommend***)
 3. [Https](http://www.oschina.net/translate/understanding-https-protocol) tells the detail info of ***HTTPS*** .
+4. [http cross](http://blog.csdn.net/dalangzhonghangxing/article/details/52911230)
+5. [Node cross](http://www.tuicool.com/articles/vYBR3y)
 
 ## 8.2 RESTful API
 1. [Ruanyifeng RESTful Guide](http://www.ruanyifeng.com/blog/2011/09/restful) (***Recommend***)
