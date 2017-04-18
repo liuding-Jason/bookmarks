@@ -40,6 +40,7 @@
 9. [Redux Simple Use](https://github.com/reactjs/redux/tree/master/examples/counter) shows the simple use of ***Redux*** .
 10. [React Router Source Code Analyse](https://github.com/joeyguo/blog/issues/2) analyses the source code of ***React-Router*** .
 11. [Ruanyifeng's Redux Guide](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+12. [Draft](http://blog.csdn.net/ohmyauthentic/article/details/53519299) is a editor based on ***react*** and ***redux*** .
 
 ## 2.3 Vue
 1. [Vue org](http://cn.vuejs.org/) is the ***offical*** web of Vue (***Recommend***) .
@@ -49,6 +50,7 @@
 5. [Vuex Guide](http://vuex.vuejs.org/zh-cn/intro.html) (***Recommend***) 
 6. [Vue Prerender](https://github.com/chrisvfritz/prerender-spa-plugin) offers prerendering .
 7. [Vue2.0 SVG](https://github.com/reyboo/vue-svg-icon)
+8. [Vue Component Send Value](http://www.tuicool.com/articles/jyM32mA) shows different ways of sending value in ***Vue2.0*** .
 
 ## 2.4 React Native
 1. [React Native Org in Chinese](http://reactnative.cn/) (***Recommend***)
@@ -121,6 +123,8 @@
 1. [Ruanyifeng Ajax Cors](http://www.ruanyifeng.com/blog/2016/04/cors.html) (***Recommend***)
 2. [Http Session](http://justsee.iteye.com/blog/1570652) (***Recommend***)
 3. [Https](http://www.oschina.net/translate/understanding-https-protocol) tells the detail info of ***HTTPS*** .
+4. [http cross](http://blog.csdn.net/dalangzhonghangxing/article/details/52911230)
+5. [Node cross](http://www.tuicool.com/articles/vYBR3y)
 
 ## 8.2 RESTful API
 1. [Ruanyifeng RESTful Guide](http://www.ruanyifeng.com/blog/2011/09/restful) (***Recommend***)
