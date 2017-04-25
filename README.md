@@ -150,8 +150,12 @@
 2. [Tecent Incremental Update](http://doc.mbalib.com/view/6280a1025d4fcb8e451190b505df8353.html)
 3. [Alibaba SVG Store](http://www.iconfont.cn/)
 
-# 11. CopyRight
-### 11.1 License
+# 11. PHP
+1. [PHP Trait](https://segmentfault.com/a/1190000002970128) shows how to use ***Trait*** to implement two or more implements in ***PHP*** .
+
+
+# CopyRight
+### License
 
 (The MIT License)
 
