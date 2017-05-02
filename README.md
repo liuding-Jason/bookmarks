@@ -123,7 +123,8 @@
 
 # 8. PWA
 1. [ELEMENT PWA](https://zhuanlan.zhihu.com/p/25800461) shows how to build a PWA app .
-2. [PWA](http://www.tuicool.com/articles/nueIJzN)
+2. [PWA](http://www.tuicool.com/articles/nueIJzN)PWA
+3. [PWA Performance Analisy - Lighthouse](http://www.cnblogs.com/gh0408/p/6081836.html) tells how to use Google plugin - ***Lighthouse*** to analyse your web performance .
 
 # 9. Others
 ## 9.1 Ajax Cors
