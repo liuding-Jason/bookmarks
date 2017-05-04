@@ -42,7 +42,8 @@
 11. [Ruanyifeng's Redux Guide](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
 12. [Draft](http://blog.csdn.net/ohmyauthentic/article/details/53519299) is a editor based on ***react*** and ***redux*** .
 13. [React SVG Sprites](http://www.tuicool.com/articles/vqEJvy7) shows how to use ***SVG*** in your React Project .
-
+14. [React Canvas](https://github.com/Flipboard/react-canvas) tells how to build a web page with ***canvas*** in react .
+ 
 ## 2.3 Vue
 1. [Vue org](http://cn.vuejs.org/) is the ***offical*** web of Vue (***Recommend***) .
 2. [Vue Simple Guide from runoob](http://www.runoob.com/w3cnote/vue2-start-coding.html) would give you a introduction of ***Vue2.0***
