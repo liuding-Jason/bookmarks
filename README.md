@@ -134,6 +134,7 @@
 3. [Https](http://www.oschina.net/translate/understanding-https-protocol) tells the detail info of ***HTTPS*** .
 4. [http cross](http://blog.csdn.net/dalangzhonghangxing/article/details/52911230)
 5. [Node cross](http://www.tuicool.com/articles/vYBR3y)
+6. [Session and Cookie](http://blog.csdn.net/fangaoxin/article/details/6952954/)(***Recommend***)
 
 ## 9.2 RESTful API
 1. [Ruanyifeng RESTful Guide](http://www.ruanyifeng.com/blog/2011/09/restful) (***Recommend***)
