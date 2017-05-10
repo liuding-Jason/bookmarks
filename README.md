@@ -118,6 +118,7 @@
 4. [Webpack Config](http://www.imooc.com/article/7221) shows different function of each config .
 5. [Html-webpack-plugin](http://blog.csdn.net/keliyxyz/article/details/51513114) shows the html-webpack-plugin uses in ***webpack*** .
 6. [Webpack-dev-server](http://www.jianshu.com/p/8adf4c2bfa51) guides you to build a local dev-server use ***webpack*** .
+7. [Webpack Npm Org](https://www.npmjs.com/)
 
 # 7. Full Stack 
 1. [Full Stack Introduction](http://thefullstack.xyz/) (***Recommend***)
