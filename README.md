@@ -165,7 +165,7 @@
 
 # 11. PHP
 1. [PHP Trait](https://segmentfault.com/a/1190000002970128) shows how to use ***Trait*** to implement two or more implements in ***PHP*** .
-
+2. [PHP Cross Origin](http://www.cnblogs.com/xiezn/p/5651093.html) shows how to set cross origins in php .
 
 # CopyRight
 ### License
