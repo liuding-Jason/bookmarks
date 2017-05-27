@@ -90,7 +90,7 @@
 # 4. JavaScript Test Framework
 ## 4.1 Mocha and Phantom
 1. [Ruanyifeng's Mocha Guide](http://javascript.ruanyifeng.com/nodejs) 
-2.[Mocha Uses](http://www.cnblogs.com/tzyy/p/5729602.html) gives the detail uses of ***Mocha*** . 
+2. [Mocha Uses](http://www.cnblogs.com/tzyy/p/5729602.html) gives the detail uses of ***Mocha*** . 
 3. [Phantom Org](http://phantomjs.org) is the ***offical*** web.
 4. [Phantom Brif Blog](http://www.cnblogs.com/front-Thinking/p/4321720.html) shows the basic uses of ***Phantom***.
 
@@ -136,6 +136,7 @@
 4. [http cross](http://blog.csdn.net/dalangzhonghangxing/article/details/52911230)
 5. [Node cross](http://www.tuicool.com/articles/vYBR3y)
 6. [Session and Cookie](http://blog.csdn.net/fangaoxin/article/details/6952954/)(***Recommend***)
+7. [Options](http://www.tuicool.com/articles/3UBzIbb)
 
 ## 9.2 RESTful API
 1. [Ruanyifeng RESTful Guide](http://www.ruanyifeng.com/blog/2011/09/restful) (***Recommend***)
@@ -151,6 +152,11 @@
 ## 9.5 MongoDB
 1. [MongoDB Org](https://www.mongodb.com/) (***Recommend***)
 2. [YiBai MongoDB](http://www.yiibai.com/mongodb/) teachs mongoDB .
+
+## 9.6 Web Bluetooth API
+1. [Web Bluetooth API Org](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#before-we-start ) (***Recommend***) .
+2. [Zhihu Web Bluetooth](https://zhuanlan.zhihu.com/p/20657057?columnSlug=FrontendMagazine) shows the basic use of web bluetooth .
+3. [GATT Services List](https://www.bluetooth.com/specifications/gatt/services) shows the list of bluetooth's services .
 
 # 10. Books 
 1. [Eloquent JavaScript](http://eloquentjavascript.net/)
