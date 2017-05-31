@@ -53,6 +53,7 @@
 6. [Vue Prerender](https://github.com/chrisvfritz/prerender-spa-plugin) offers prerendering .
 7. [Vue2.0 SVG](https://github.com/reyboo/vue-svg-icon)
 8. [Vue Component Send Value](http://www.tuicool.com/articles/jyM32mA) shows different ways of sending value in ***Vue2.0*** .
+9. [Vue2.0 Response Framework](https://segmentfault.com/a/1190000007334535) shows response framework principle of Vue2.0 .
 
 ## 2.4 React Native
 1. [React Native Org in Chinese](http://reactnative.cn/) (***Recommend***)
