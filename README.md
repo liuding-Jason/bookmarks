@@ -164,6 +164,7 @@
 1. [Eloquent JavaScript](http://eloquentjavascript.net/)
 2. [Tecent Incremental Update](http://doc.mbalib.com/view/6280a1025d4fcb8e451190b505df8353.html)
 3. [Alibaba SVG Store](http://www.iconfont.cn/)
+4. [Highly Concurrent](http://www.csdn.net/article/2014-11-28/2822858)
 
 # 11. PHP
 1. [PHP Trait](https://segmentfault.com/a/1190000002970128) shows how to use ***Trait*** to implement two or more implements in ***PHP*** .
