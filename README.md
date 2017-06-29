@@ -167,6 +167,8 @@
 4. [Highly Concurrent](http://www.csdn.net/article/2014-11-28/2822858)
 5. [Front Page Teach of SegmentFault](https://segmentfault.com/blog/frontenddriver)
 6. [Run Web Test in real phone](https://segmentfault.com/a/1190000005964730)(***Recommend***)
+7. [WX Pay Bug Guide](http://blog.csdn.net/zjkyz8/article/details/51731529)(***Recommend***)
+
 
 # 11. PHP
 1. [PHP Trait](https://segmentfault.com/a/1190000002970128) shows how to use ***Trait*** to implement two or more implements in ***PHP*** .
