@@ -158,6 +158,8 @@
 1. [Web Bluetooth API Org](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#before-we-start ) (***Recommend***) .
 2. [Zhihu Web Bluetooth](https://zhuanlan.zhihu.com/p/20657057?columnSlug=FrontendMagazine) shows the basic use of web bluetooth .
 3. [GATT Services List](https://www.bluetooth.com/specifications/gatt/services) shows the list of bluetooth's services .
+## 9.7 Prefetch API
+1. [Prefetch API](http://www.cnblogs.com/bq-med/p/5577949.html) 
 
 # 10. Books 
 1. [Eloquent JavaScript](http://eloquentjavascript.net/)
