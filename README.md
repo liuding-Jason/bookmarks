@@ -138,6 +138,7 @@
 5. [Node cross](http://www.tuicool.com/articles/vYBR3y)
 6. [Session and Cookie](http://blog.csdn.net/fangaoxin/article/details/6952954/)(***Recommend***)
 7. [Options](http://www.tuicool.com/articles/3UBzIbb)
+8. [IE8 cross plugin](https://github.com/MoonScript/jQuery-ajaxTransport-XDomainRequest)
 
 ## 9.2 RESTful API
 1. [Ruanyifeng RESTful Guide](http://www.ruanyifeng.com/blog/2011/09/restful) (***Recommend***)
