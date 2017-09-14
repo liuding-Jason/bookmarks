@@ -177,6 +177,10 @@
 2. [PHP Cross Origin](http://www.cnblogs.com/xiezn/p/5651093.html) shows how to set cross origins in php .
 3. [Laravel Cross Origin](https://segmentfault.com/a/1190000006207353) shows how to set cross origins in laravel .
 
+# 12. Python
+1. [Python Simple Guider](http://www.runoob.com/python/python-tutorial.html) shows the simple guide of Python
+2. [Python Tkinter](http://www.jianshu.com/p/5c7a1af4aa53) tells the GUI programming module ***Tkinter*** of python
+
 # CopyRight
 ### License
 
