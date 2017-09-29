@@ -180,6 +180,7 @@
 # 12. Python
 1. [Python Simple Guider](http://www.runoob.com/python/python-tutorial.html) shows the simple guide of Python
 2. [Python Tkinter](http://www.jianshu.com/p/5c7a1af4aa53) tells the GUI programming module ***Tkinter*** of python
+3. [TensorFlow Guider](http://www.tensorfly.cn/tfdoc/tutorials/mnist_beginners.html)
 
 # CopyRight
 ### License
