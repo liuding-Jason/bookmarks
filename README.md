@@ -171,6 +171,7 @@
 6. [Run Web Test in real phone](https://segmentfault.com/a/1190000005964730)(***Recommend***)
 7. [WX Pay Bug Guide](http://blog.csdn.net/zjkyz8/article/details/51731529)(***Recommend***)
 8. [AI and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+9. [AMD and CMD Discribe](http://zccst.iteye.com/blog/2084545) (***Recommend***)
 
 # 11. PHP
 1. [PHP Trait](https://segmentfault.com/a/1190000002970128) shows how to use ***Trait*** to implement two or more implements in ***PHP*** .
