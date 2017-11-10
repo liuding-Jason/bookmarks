@@ -183,6 +183,9 @@
 2. [Python Tkinter](http://www.jianshu.com/p/5c7a1af4aa53) tells the GUI programming module ***Tkinter*** of python
 3. [TensorFlow Guider](http://www.tensorfly.cn/tfdoc/tutorials/mnist_beginners.html)
 
+# 13. AI
+1. [JS AI](http://blog.csdn.net/stereohomology/article/details/41116971)
+
 # CopyRight
 ### License
 
